@@ -4,6 +4,8 @@
 
 本文重点推荐多款兼顾稳定性与价格优势的性价比机场，涵盖主流 Clash机场，支持 Clash节点订阅 与 Clash订阅链接 一键导入，适配安卓、iOS、Windows、Mac 等平台。无论是解锁 Netflix、YouTube 等海外流媒体，还是外贸办公、学习查资料或外服游戏加速，这些高质量外网梯子和VPN加速器都能满足日常需求。
 
+![](https://community-all-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/e/e227635c1d4cabede399f6ff390fd37b933d8a22.jpeg)
+
 ## 2026年机场推荐榜单（稳定翻墙机场梯子）
 
 以下是实测后整理的 2026年值得长期使用的机场推荐榜单，全部支持主流协议与 Clash 客户端。
